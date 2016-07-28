@@ -1,0 +1,10 @@
+build/
+build-bak/
+build-bak2/
+*.jpeg
+*.jpg
+*.png
+*.so
+*.a
+*.mha
+*.exe
